@@ -33,9 +33,7 @@ Bạn có thể xem bản demo trực tiếp của dự án [tại đây](https:
 
 ## Hình ảnh
 
-![Trang chủ](public/images/pic1.png)
-![Trang về tôi](public/images/pic2.png)
-![Trang về dự án](public/images/pic3.png)
-![Trang liên hệ](public/images/pic4.png)
+![Trang chủ](public/images/pic.pdf)
+
 
 
