@@ -33,7 +33,7 @@ Bạn có thể xem bản demo trực tiếp của dự án [tại đây](https:
 
 ## Hình ảnh
 
-![Trang chủ](public/images/pic.pdf)
+![Trang chủ](public/images/pic.png)
 
 
 
