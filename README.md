@@ -29,7 +29,7 @@ Azure White Bio là một trang web portfolio cá nhân giới thiệu các dự
 
 ## Demo
 
-Bạn có thể xem bản demo trực tiếp của dự án [tại đây](https://chucnguyen2k2.github.io/azure-white-bio-main).
+Bạn có thể xem bản demo trực tiếp của dự án [tại đây](https://blogchucdev.netlify.app/).
 
 ## Hình ảnh
 
